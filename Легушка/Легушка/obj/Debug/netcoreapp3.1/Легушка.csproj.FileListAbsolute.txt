@@ -1,0 +1,17 @@
+D:\Программы\C#\Легушка\Легушка\bin\Debug\netcoreapp3.1\Легушка.exe
+D:\Программы\C#\Легушка\Легушка\bin\Debug\netcoreapp3.1\Легушка.deps.json
+D:\Программы\C#\Легушка\Легушка\bin\Debug\netcoreapp3.1\Легушка.runtimeconfig.json
+D:\Программы\C#\Легушка\Легушка\bin\Debug\netcoreapp3.1\Легушка.runtimeconfig.dev.json
+D:\Программы\C#\Легушка\Легушка\bin\Debug\netcoreapp3.1\Легушка.dll
+D:\Программы\C#\Легушка\Легушка\bin\Debug\netcoreapp3.1\Легушка.pdb
+D:\Программы\C#\Легушка\Легушка\obj\Debug\netcoreapp3.1\Легушка.csproj.AssemblyReference.cache
+D:\Программы\C#\Легушка\Легушка\obj\Debug\netcoreapp3.1\Легушка.Form1.resources
+D:\Программы\C#\Легушка\Легушка\obj\Debug\netcoreapp3.1\Легушка.csproj.GenerateResource.cache
+D:\Программы\C#\Легушка\Легушка\obj\Debug\netcoreapp3.1\Легушка.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы\C#\Легушка\Легушка\obj\Debug\netcoreapp3.1\Легушка.AssemblyInfoInputs.cache
+D:\Программы\C#\Легушка\Легушка\obj\Debug\netcoreapp3.1\Легушка.AssemblyInfo.cs
+D:\Программы\C#\Легушка\Легушка\obj\Debug\netcoreapp3.1\Легушка.csproj.CoreCompileInputs.cache
+D:\Программы\C#\Легушка\Легушка\obj\Debug\netcoreapp3.1\Легушка.dll
+D:\Программы\C#\Легушка\Легушка\obj\Debug\netcoreapp3.1\Легушка.pdb
+D:\Программы\C#\Легушка\Легушка\obj\Debug\netcoreapp3.1\Легушка.genruntimeconfig.cache
+D:\Программы\C#\Легушка\Легушка\obj\Debug\netcoreapp3.1\Легушка.Properties.Resources.resources
